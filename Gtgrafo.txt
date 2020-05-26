@@ -1,0 +1,16 @@
+ciudadgt sanarate 41
+ciudadgt coban 180
+ciudadgt xela 200
+xela heuhuetenango 100
+ciudadgt peten 600
+coban peten 150
+coban zacapa 130
+zacapa sanarate 60
+zacapa ciudadgt 101
+zacapa peten 500
+sanarate coban 120
+chiquimula zacapa 40
+zacapa pbarrios 200
+pbarrios peten 300
+ciudadgt escuinta 50
+escuinta xela 155
